@@ -1,0 +1,23 @@
+body
+{
+  padding : 0;
+  margin : 0;
+}
+
+h1
+{
+  background-color: palevioletred;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+.card
+{
+  background-color: aliceblue;
+  padding: 20px;
+  width: 500px;
+  border-radius: 10px;
+  margin: 20px auto;
+}
