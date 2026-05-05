@@ -1,6 +1,7 @@
 export default function Exemplo1 ({numero1, numero2})
 {
- + Number (numero2) ;
+ let soma = Number (numero1) + Number (numero2);
+
     return (
         <div>
         <p>
@@ -8,7 +9,6 @@ export default function Exemplo1 ({numero1, numero2})
             Número2 :{numero2} <br />
             A soma é: {soma}
         </p>
-
         </div>
     );
 }
